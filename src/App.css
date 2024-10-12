@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  width: 100%;
+  font-family: "Fira Code", monospace;
+}
+
+.fixed-bg {
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  height: 100%;
+  width: 100%;
+  color: white;
+  text-align: center;
+  display: table;
+}
+
+
+
+.scroll-bg {
+    background-color: #0f0f0a;
+  }

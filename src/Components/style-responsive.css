@@ -1,0 +1,11 @@
+@media screen and (max-width: 1024px) {
+  .service-icons {
+    flex-direction: column;
+    gap: 5%;
+  }
+  .service-icon {
+    font-size: 4rem;
+  }
+
+
+}
